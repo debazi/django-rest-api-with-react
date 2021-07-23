@@ -1,4 +1,4 @@
-# django-rest-api-with-react
+# Créer une application web avec django et react.js
 Ce projet est une initiation à django et react en utilisant le service REST.
 
 Comment créer une application de gestion de tâche avec Django et React?
