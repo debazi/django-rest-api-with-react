@@ -54,10 +54,10 @@ Pour suivre ce tutoriel, vous devrez :
   https://www.django-rest-framework.org/
   
   A propos de l'auteur:
-  A.Marc Debazi
-  Developpeur full Stack
-  backend: Python -java -PHP
-  frontend: React.js et Vue.js
+        A.Marc Debazi
+        Developpeur full Stack
+        backend: Python -java -PHP
+        frontend: React.js et Vue.js
   
   
     
