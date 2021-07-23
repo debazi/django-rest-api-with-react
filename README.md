@@ -40,14 +40,27 @@ Pour suivre ce tutoriel, vous devrez :
     # Installez Node.js et créez un environnement de développement local
     
     sudo apt-get install -y curl
-curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
-sudo apt-get install -y nodejs
+    curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
+    sudo apt-get install -y nodejs
 
-création de projet react:
-npx create-react-app frontend
-cd frontend
-npm start
-npm install bootstrap@4.6.0 reactstrap@8.9.0 --legacy-peer-deps
+    création de projet react:
+    npx create-react-app frontend
+    cd frontend
+    npm start
+    npm install bootstrap@4.6.0 reactstrap@8.9.0 --legacy-peer-deps
+    npm install axios@0.21.1
+  
+  Sources:
+  https://www.django-rest-framework.org/
+  
+  A propos de l'auteur:
+  A.Marc Debazi
+  Developpeur full Stack
+  backend: Python -java -PHP
+  frontend: React.js et Vue.js
+  
+  
+    
 
  
 
